@@ -5,7 +5,7 @@ Slug Distribution in Arable Fields Arising from Density Dependent Movement'
 
 The main file is DensityDependentModel.m where you can select parameters and run the code. This will call the nextstep.m function. The DistributionAnalysis.m file can be used to generate contour plots and calculate the Morisita Index.
 
-The circ_vmrnd file is from the Circular Statistics Toolbox for Matlab By Philipp Berens, 2009: berens@tuebingen.mpg.de - www.kyb.mpg.de/~berens/circStat.html
+The circ_vmrnd file is from the Circular Statistics Toolbox for Matlab By Philipp Berens, 2009: https://uk.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics
 
 J.R.E. acknowledges support in the form of a Research Associateship from the School of Mathematics, University of Birmingham.
 
